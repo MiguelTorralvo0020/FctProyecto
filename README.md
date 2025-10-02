@@ -1,4 +1,14 @@
-# FctProyecto
+# Instalar paquete SupaBase en repositorio
+
+npm install @supabase/supabase-js
+
+
+
+
+
+
+
+# ProyectoPrueba
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.3.
 
